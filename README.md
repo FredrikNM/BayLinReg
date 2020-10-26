@@ -2,7 +2,7 @@
 A pymc3 version of Bayesian linear regression.
 Pymc3 is a easy way to implement Baysian statistic. [Link to Pymc3's own examples](https://docs.pymc.io/nb_examples/index.html)
   
-Quick statistic recap. We try to use a variables, or many, like the price of cheese and tomatos, to explain something else, like the price of pizza.  
+Quick statistic recap. We try to use a variables, or many, like the price of cheese and tomatos, to explain something else, like the price of pizza.
 Maybe it can be describe like this :  pizza_price = 2 * cheese_price + 0.5 * tomato_price. 
 Or a trick you might have learned earlier,  
 pizza_prices = cheese_price * cheese_price, or tomato_price^3. What ever it might be, if we are sure we have some  
